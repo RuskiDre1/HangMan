@@ -4,12 +4,11 @@
  * program
  * 
 */
-
-#include "header.h"
+#include "header.hpp"
 
 int main()
 {
-
+    hangMan game;
     do{
         //create class obj
         // call run function

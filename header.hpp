@@ -5,6 +5,7 @@
  * 
 */
 #include <iostream>
+#include <string>
 using namespace std;
 
 class hangMan
@@ -14,7 +15,7 @@ class hangMan
         ~hangMan();
     
         int run();
-        int display();
+        int display_intro();
         int random_gen();
 
 
