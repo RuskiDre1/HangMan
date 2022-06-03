@@ -1,5 +1,5 @@
 make --dry-run --keep-going --print-directory
 make: Entering directory `/Users/andreytoderyan/Documents/GitHub/HangMan/HangMan'
-g++ -Wall main.cpp -o a.out
+g++ -Wall hangMan.cpp main.cpp -o a.out
 make: Leaving directory `/Users/andreytoderyan/Documents/GitHub/HangMan/HangMan'
  

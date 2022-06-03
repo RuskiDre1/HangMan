@@ -10,6 +10,11 @@
 int main()
 {
 
+    do{
+        //create class obj
+        // call run function
+
+    }while(again());
 
     return 0;
 }

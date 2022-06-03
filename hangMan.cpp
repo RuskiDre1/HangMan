@@ -4,3 +4,9 @@
  * header.h file
  * 
 */
+
+
+bool again()
+{
+    return false;
+}
