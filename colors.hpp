@@ -5,8 +5,12 @@
  * 
 */
 #pragma once
+#include <iostream>
+#include <string>
+#include <string.h>
+#include <stdlib.h>
 
-#include "header.hpp"
+using namespace std;
 
 using color = string;
 
