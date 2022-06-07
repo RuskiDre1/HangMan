@@ -5,13 +5,20 @@
  * 
 */
 #include "header.hpp"
+#include <iostream>
+#include <string>
+#include <string.h>
+#include <stdlib.h>
 
 int main()
 {
-    hangMan game;
-    do{
-        //create class obj
-        // call run function
+        do{
+        system("clear");
+        hangMan game;
+        //game.display_intro();
+        game.run();
+
+        //insert a reloading game
 
     }while(again());
 
